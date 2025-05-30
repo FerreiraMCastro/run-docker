@@ -16,11 +16,12 @@ ________________________________________________________________________________
 ## Como utilizar
 ---
 Clone o repositório
-```bash
+
 git clone https://github.com/seu-usuario/docker-install-script.git
 cd docker-install-script
 
 Dê Permissão de execução:
+
 chmod +x install-docker.sh
 
 Execute o script:
