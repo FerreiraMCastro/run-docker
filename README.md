@@ -16,7 +16,7 @@ ________________________________________________________________________________
 ## Como utilizar
 ---
 Clone o repositório
-
+```bash
 git clone https://github.com/seu-usuario/docker-install-script.git
 cd docker-install-script
 
